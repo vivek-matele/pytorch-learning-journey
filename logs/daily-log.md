@@ -48,3 +48,18 @@
 **Next Goal:** Learn about Pipeline building 
 
 ---
+##  2025-06-12
+
+**Topic:** Building training Pipeline Using NN modules and optim module
+**What I learned:**
+- Today, I build normal baseline pipeline using NN module and optim module
+- I used object oriented concept to build pipeline
+- how to convert numpy arrey in tensor form
+- how to build neural network using nn module
+- forward_pass,calculate_loss,backpropogation,updation weights
+- evaluation 
+
+**Notebook:**`C:tutorials\Day_4_pytorch_training_pipeline_using_nn_module.ipynb`  
+**Next Goal:** Learn about Data loading
+
+---
