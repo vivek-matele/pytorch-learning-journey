@@ -63,3 +63,31 @@
 **Next Goal:** Learn about Data loading
 
 ---
+##  2025-06-14
+
+**Topic:** Building dataset class and dataloder in pytorch 
+**What I learned:**
+- Today, I build customdataset class and it inherit builtin Dataset class methods and attributes
+- there is 3 method in this class 
+- convert x_features and labels into tensor using torch.tensor
+- in constructor we calculate length of x_features for creating batch_size
+- and then create __getitem__ constructor to fetch data from the dataset
+- also created objects of dataloader class 
+- i practiced it and apply in small scale project
+
+**Notebook:**`tutorials\Day_5_dataset_and_dataloader_demo.ipynb`  
+**Next Goal:** Build ann NN using dataset and dataloader
+
+---
+
+##  2025-06-16
+
+**Topic:** Building ANN model using Dataset  and DataLoader class 
+**What I learned:**
+- Today, I build ANN nn using customdataset and dataloader class
+- project name is  fashion_mnist classification
+
+**Notebook:**`tutorials\Day_6_ann_fashion_mnist_pytorch.ipynb`  
+**Next Goal:** 
+
+---
